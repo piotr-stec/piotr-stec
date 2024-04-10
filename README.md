@@ -3,6 +3,6 @@
 - 📈 I'm improving Python skills
 - 📘 I'm learning Rust
 - 📧 Email: piotr.stec2g@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/piotr-st/)🔗
+- [LinkedIn](https://www.linkedin.com/in/piotr-st/) 🔗
 
 
